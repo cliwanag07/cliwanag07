@@ -15,22 +15,22 @@ Currently, I'm a **Programming & AI Instructor at Coding STEM Academy**, where I
 
 ## Featured Projects
 
-### Project Warden
+### [Project Warden](https://github.com/4fatesstudios/project-warden)
 **Unity · C# · Procedural Generation · Developer Tools**
 
 Team Lead / Gameplay & Tools Programmer on an 8-person development team. Building procedural labyrinth generation, modular gameplay systems, and custom Unity Editor tools designed to accelerate content creation and development workflows.
 
-### Boba Stop
+### [Boba Stop](https://github.com/4fatesstudios/boba-stop)
 **Unity · C# · Python · FastAPI · RAG**
 
 Capstone project exploring AI-driven NPC conversations through contextual dialogue generation. Developed gameplay systems and a Python backend supporting Retrieval-Augmented Generation and communication between Unity and AI services.
 
-### Python AI Agent Template
+### [Python AI Agent Template](https://github.com/cliwanag07/ai-agent-template)
 **Python · Ollama · Tool Calling**
 
 An extensible framework developed for teaching AI-agent architecture, structured tool calling, persistent state, prompting, and locally hosted LLMs.
 
-### Echoes of Hubris
+### [Echoes of Hubris](https://github.com/4fatesstudios/echoes-of-hubris)
 **Unreal Engine 5 · C++ · Blueprints**
 
 Team Lead / Gameplay Programmer on a 6-person Metroidvania project. Developed inventory, combat, movement, enemy AI, and multi-phase boss systems while contributing 400+ programming hours.
